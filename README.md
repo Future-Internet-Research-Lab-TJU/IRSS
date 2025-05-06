@@ -1,8 +1,6 @@
 # Enhanced Packet Classification: Intelligent Selection between Tuple Space and Tree
 
 ---
-### Paper
-__Zhuo Li, Nan Zhang, Hao Xun, Yunlong Xi.__
 
 ---
 ### Files
