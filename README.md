@@ -4,18 +4,11 @@
 
 ---
 ### Files
-- main.cpp, main,hpp: the implementation of SIM
-- hash.c, hash.h: the hash function
-- SIM_heavy.hpp: store heavy flow
-- SIM_light.hpp: store little flow
-- SIM.hpp: the overall framework of data structure
-- adaptor.cpp, adaptor.hpp: used to process the data file and obtain each edge information in the data file
-- datatypes.hpp: define data types
-- RrConfig.cpp, RrConfig.h: read and parse configuration files
-- util.h: define some universal functions
-- config_DBLP.ini: the format of the configuration file in main.cpp
+- model.py: Probability-based Rule Sorting Model
+- main.cpp: Performance Evaluation
+- data: The Testing Rule Sets
+- methods: The Schemes based on Tuple and Discision Tree
 ---
-
 ### Compile and Run the examples
 IRSS is implemented with C++. We show how to compile the examples on
 Ubuntu with g++ and make.
